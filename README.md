@@ -1,6 +1,9 @@
 
 # SQLite Retrieval Augmented Generation (RAG) and Vector Search With C# and Ollama
 
+[![Watch the video](https://img.youtube.com/vi/UjUVy0oB9YE/RAG.jpg)](https://youtu.be/UjUVy0oB9YE)
+
+
 This project demonstrates a simple movie recommendation system using the **Semantic Kernel** and the **SQLite Vector Store** connector. It leverages vector embeddings to store and query movie data based on textual descriptions and performs similarity searches to provide relevant recommendations.
 
 ## Features
